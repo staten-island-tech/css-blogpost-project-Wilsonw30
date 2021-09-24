@@ -1,19 +1,25 @@
 body {
-    background-color: #7fc6b8;
-    color: brown;
-    font-size: 55px;    
-    font-family: arvo; 
+    background-color: #7cc1ac;
+    font-size: 30px;
+    font-family:'Times New Roman', Times, serif;
 }
-.head{
-    margin-top: 60px;
+#titles {
+    color:#f9ffff;
     text-align: center;
-    color:#f7fffe;
-    border: 10px solid #40b3a2;
-    border-radius: 100px;
-    width: 350px;
-    
-}       
-h2{
-    text-align: center;
-    color: #f7fffe;
 }
+.head {
+    border: #229c9d solid 10px;
+    border-radius: 70px;
+    width: 300px;
+    margin:50 auto;
+}
+.subhead {
+  border: #42b8b8 10px solid;
+  height: 250px;
+  width: 750px;
+  margin: auto;
+  background-image: url("img/bulb.png");
+  background-repeat: repeat-y;
+  background-position: center;
+}
+
