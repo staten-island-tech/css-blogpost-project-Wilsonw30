@@ -23,3 +23,22 @@ body {
   background-position: center;
 }
 
+.second {
+    border: #42b8b8 10px solid;
+    height: 250px;
+    width: 750px;
+    margin: auto;
+    background-image: url("img/leaf\ man\ -\ Copy.png");
+    background-repeat: repeat-y;
+    background-position: center;
+  }
+.third {
+    border: #42b8b8 10px solid;
+    height: 250px;
+    width: 750px;
+    margin: auto;
+    background-image: url("img/ribbon.png");
+    background-repeat: repeat-y;
+    background-position: center;
+}
+
