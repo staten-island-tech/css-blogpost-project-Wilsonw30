@@ -13,32 +13,25 @@ body {
     width: 300px;
     margin:50 auto;
 }
-.subhead {
-  border: #42b8b8 10px solid;
+.boxes {
+  color:#f9ffff;
+  text-align: center;
+  border: #fad2b2 10px solid;
   height: 250px;
   width: 750px;
   margin: auto;
-  background-image: url("img/bulb.png");
   background-repeat: repeat-y;
   background-position: center;
+  background-color:#84cdca;
+}
+#strawberry {
+    background-image: url("img/bulb.png");
+}
+#leaf {
+    background-image: url("img/leaf\ man\ -\ Copy.png");
+}
+#ribbon {
+    background-image: url("img/ribbon-320x320.png");
 }
 
-.second {
-    border: #42b8b8 10px solid;
-    height: 250px;
-    width: 750px;
-    margin: auto;
-    background-image: url("img/leaf\ man\ -\ Copy.png");
-    background-repeat: repeat-y;
-    background-position: center;
-  }
-.third {
-    border: #42b8b8 10px solid;
-    height: 250px;
-    width: 750px;
-    margin: auto;
-    background-image: url("img/ribbon.png");
-    background-repeat: repeat-y;
-    background-position: center;
-}
 
