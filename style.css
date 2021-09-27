@@ -10,7 +10,7 @@ body {
 .head {
     border: #229c9d solid 10px;
     border-radius: 70px;
-    width: 300px;
+    width: 550px;
     margin:50 auto;
 }
 .boxes {
@@ -19,7 +19,7 @@ body {
   border: #fad2b2 10px solid;
   height: 250px;
   width: 750px;
-  margin: auto;
+  margin: -30 auto;
   background-repeat: repeat-y;
   background-position: center;
   background-color:#84cdca;
@@ -33,5 +33,4 @@ body {
 #ribbon {
     background-image: url("img/ribbon-320x320.png");
 }
-
 
