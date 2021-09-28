@@ -3,7 +3,7 @@ body {
     font-size: 30px;
     font-family:'Times New Roman', Times, serif;
 }
-#titles {
+#blog-titles {
     color:#f9ffff;
     text-align: center;
 }
@@ -13,7 +13,7 @@ body {
     width: 550px;
     margin:50 auto;
 }
-.boxes {
+.blog-boxes {
   color:#f9ffff;
   text-align: center;
   border: #fad2b2 10px solid;
@@ -33,4 +33,10 @@ body {
 #ribbon {
     background-image: url("img/ribbon-320x320.png");
 }
-
+.blog-center {
+    margin:28px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    
